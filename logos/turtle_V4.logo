@@ -1,0 +1,52 @@
+# Turtle logo for linux_logo
+
+SYSINFO_POSITION bottom
+NAME turtle
+
+DESCRIPTION_STRING Turtle Logo
+
+BEGIN_LOGO
+                                                                                
+                        pwwWWWMMMWWWwpp                                         
+                   ywM%T?  kkkkkkkkk  2MM%Wp                                    
+               ,wM%? kkkkkkkkkkk yM0F`     `?%Wp     y@KMM%T****MMW@p           
+              #%HkkkkkkkkkkkkkyMF             ,J&K@@M?              ?%Wp        
+           {@D"`*%p kkkkk  pw@"            ,w%kkj@K         ,wMMM=     TKp      
+          jM       ?@M%"T     *Wp         wHkkk@M,          "            %@     
+        ,&F        ]F            ?%WM*""?"%Hkk@M          JM%@@@p         %@    
+        &F        ,H             ,M        %k@D          &F  %@@@@         @Hk  
+       ]M%%""""*%M#@           pp]    ,w@@@@KD          jH    %MKKH        $H   
+  {pww4p       pp;   ?%WwwwM%"    T%Wp@@@M;             J@       &         ]H   
+   *Wp $D%%B@wwwpk?T%Wwp  pw@@@@@@p  T@@@@               ?W    yM-         ]H   
+       ?@@M?`   "%@kkkk  k@M?    ?%@%M%@@@@wpp             ?**?            $H   
+       .$H        T@kkkkk@F        1Hkk T%%TT T%%@@p.                     jM    
+       jK          $Hkkk$H         J@kkkkkkkkk{@MF]H?%Wp Y.              ]H     
+       jH          jMM%MK          J@wwwwwwWM%T`  ]H   "%Wp??Yw      ";w0       
+       $H          $H,A@N          jM    $; ;WWwwW0p       T%%T*wpwwM%          
+       1NMMMwwwM*YWM%?"?%wMMWwwMf*%@%p      YWm#WWmH                            
+        ?%%%F ?"%%TT     %%%%  "%%%T"                                           
+                                                                          \     
+END_LOGO
+
+BEGIN_ASCII_LOGO
+                                                                                
+                        |||||||||||||||                                         
+                   |||||||||||||||||||||||||                                    
+               /||||||||||||||||||||||     ||||     |||||||||||||||\\           
+              /|||||||||||||||                ||||||//              \\\\        
+           //|||||||||||||  |||\            |||||||/         //===     \\\      
+          //       /|||||     ||\         |||||||/          ||           \\     
+        //        |||            \||||||||||||||         ///|||\\         \\    
+        /|        ||             \|        ||||         ///  @@@\\         \\|  
+       /|||||||||||||          |||    |||||||/         /||    @@@\\        ||   
+   /////       |||||||    ||||    |||||||||            \||       ||        ||   
+   \\\ |||||||||||||||    |||||||||  |||||              \\\    ///         ||   
+       \||/     |||||||  ||||    |||||||||||||            \\||//           ||   
+       ||/        |||||||||        ||||  ||||||  |||||                    //    
+       ||          ||||||        ||||||||||||||||||||||   ||             //     
+       ||          ||||||          |||||||||||||  ||   \\||||||      ////       
+       ||          ||||||          ||    || \|||||||       \||////////          
+       \\|||//\\||||//|||\\||//\\||||//      \\||||/                            
+        \\|//  \\||//     \||/  \||||/                                          
+                                                                          \     
+END_ASCII_LOGO
